@@ -404,6 +404,7 @@ footer .footerNote {
 	text-decoration: underline;
 }
 
+/* Hides section 2 content */
 .section2Content{
 	display: none;
 }
